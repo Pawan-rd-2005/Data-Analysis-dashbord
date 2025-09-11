@@ -31,3 +31,9 @@ Used visual storytelling through charts, pivot tables, and advanced visuals.
 Automated reporting processes to save time and improve efficiency.
 
 Applied problem-solving and analytical thinking to extract actionable insights.
+
+**Dataset used**
+
+-  <a href="https://github.com/Pawan-rd-2005/Data-Analysis-dashbord/blob/main/MS_Dashboard%20-%20(2).pbix"> Raw dashbord data </a>
+- <a href=" https://github.com/Pawan-rd-2005/Data-Analysis-dashbord/blob/main/Mobile%20Sales%20Data.xlsx"> Excel file </a>
+
