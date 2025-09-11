@@ -37,3 +37,24 @@ Applied problem-solving and analytical thinking to extract actionable insights.
 -  <a href="https://github.com/Pawan-rd-2005/Data-Analysis-dashbord/blob/main/MS_Dashboard%20-%20(2).pbix"> Raw dashbord data </a>
 - <a href="https://github.com/Pawan-rd-2005/Data-Analysis-dashbord/blob/main/Mobile%20Sales%20Data.xlsx"> Excel file </a>
 
+**Questions**
+
+What are the key KPIs shown on the dashboard and why are they important?
+
+Which visual (chart/table) gives the most critical insight, and how would you interpret it?
+
+How can slicers and filters change the story of the dashboard?
+
+What trend do you observe over time (monthly/quarterly/yearly) in the data?
+
+Which region/product/department contributes the most to the overall performance?
+
+How is target vs. actual performance shown, and what does it reveal?
+
+What are the outliers or exceptions visible in the dashboard?
+
+If you drill down into the data, what deeper insights can be uncovered?
+
+Which DAX measures or calculations are likely used to build this dashboard?
+
+If you had to improve this dashboard, what one change would you suggest and why?
