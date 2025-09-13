@@ -58,3 +58,8 @@ If you drill down into the data, what deeper insights can be uncovered?
 Which DAX measures or calculations are likely used to build this dashboard?
 
 If you had to improve this dashboard, what one change would you suggest and why?
+
+
+**About the Author Pawan is the creator of this Sales Dashboard project in Power BI. With a keen interest in data analysis and visualization, Pawan focuses on transforming raw data into meaningful insights that support business decision-making. The project reflects skills in data cleaning, modeling, DAX calculations, and dashboard design. Pawan’s objective is to use analytical thinking and visualization tools like Power BI to present complex information in a simple and interactive way, helping organizations improve their sales strategies and performance.
+
+© 2025 Pawan. All Rights Reserved. This project and its contents are the intellectual property of the author. No part of this work may be reproduced, distributed, or used without prior permission.**
